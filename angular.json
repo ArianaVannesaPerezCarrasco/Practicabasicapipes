@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PRACTICABASICAPIPES"
+    }
+  },
+  "defaultProject": "PRACTICABASICAPIPES",
+  "cli": {
+    "analytics": "e4fbefda-9407-4e01-b013-a5eb9aa90e1f"
+  }
 }

@@ -7,4 +7,23 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'PRACTICABASICAPIPES';
-}
+  name='sheldon';
+  myArray=[1, 2, 3, 4, 5, 6, 7, 8];
+  PI = Math.PI;
+  myNum= 0.589;
+  salary= 3500.5;
+  nerd = { 
+    name: 'Sheldon', 
+    alias: 'Shelly', 
+    song: 'Soft Kitty',
+    skills: ['eidetic memory', 'makes people nervous'], 
+    youtubeChannel: 'Fun With Flags', 
+    address: { 
+      street: 'Elm Street', 
+      number: 3, 
+      city: 'Pasadena',
+     } 
+    }; 
+    myDate =new Date ();
+    myvideo='0omja1ivpx0';
+  }
